@@ -1,7 +1,5 @@
 # Callbreak - The Card Game
 
-![Call Break the card game in python explained](play_game.jpg)
-
 First of all, lets find out the problem steps for playing the card game as in Call Break rule and Spades rule for playing game.
 
 - The 52 cards are initialized in the deck
